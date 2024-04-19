@@ -11,7 +11,7 @@ import sys
 async def Start_msg(bot: stark , m: Message):
     await bot.send_photo(
     m.chat.id,
-    photo="https://telegra.ph/file/cef3ef6ee69126c23bfe3.jpg",
+    photo="https://graph.org/file/b4acc1a539736a6158878.jpg",
     caption = "**Hi i am All in One Extractor Bot**.\n"
                             "Press **/pw** for **Physics Wallah**..\n\n"
                             "Press **/e1** for **E1 Coaching App**..\n\n"
@@ -29,7 +29,7 @@ async def Start_msg(bot: stark , m: Message):
                             "Press **/mgconcept** for **Mgconcept app**..\n\n"
                             "Press **/down** for **For Downloading Url lists**..\n\n"
                             "Press **/forward** To **Forward from One channel to others**..\n\n"
-                            "**𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : 𝒞𝓇𝓎𝓅𝓉💞𝓈𝓉𝒶𝓇𝓀**")
+                            "**𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : Perfect Smile 🇮🇳**")
            
 
 
