@@ -1,4 +1,4 @@
-pyrogram==1.4.16
+pyrogram==2.0.106
 tgcrypto==1.2.2
 
 pyromod==1.5
@@ -28,12 +28,7 @@ charset-normalizer==3.1.0
 cloudscraper==1.2.18
 
 idna==3.4
-
-
-
 pyparsing==3.0.9
-
-
 
 python-dotenv==1.0.0
 
@@ -41,8 +36,12 @@ requests==2.31.0
 
 requests-toolbelt==0.10.1
 
-
-
 urllib3==1.26.15
 
 jinja2==3.0.3
+
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
